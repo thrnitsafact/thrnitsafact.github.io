@@ -12,20 +12,20 @@ sidebar:
 대수기하 스터디 영상 재생목록입니다.
 ## 2020년 재생목록
 **주교재: Algebraic Geometry - Robin Hartshorne**
-- [대수기하 1회](https://youtu.be/BNG7-nxDJjg){: .btn .btn--outline--info--block .btn--large} 발표자: 김영빈
+- [대수기하 1회](https://youtu.be/BNG7-nxDJjg){:target="_blank" .btn .btn--outline--info--block .btn--large} 발표자: 김영빈
   - 주제 :affine space, algebraic set, affine variety, Zariski topology, Krull dimension
-- [대수기하 2회](https://youtu.be/Wj3LLHIllUk){: .btn .btn--outline--info--block .btn--large} 발표자: 김영빈
+- [대수기하 2회](https://youtu.be/Wj3LLHIllUk){:target="_blank" .btn .btn--outline--info--block .btn--large} 발표자: 김영빈
   - 주제 :presheaf, sheaf
-- [대수기하 3회](https://youtu.be/n_QGz6Bb0A0){: .btn .btn--outline--info--block .btn--large} 발표자: 김영빈
+- [대수기하 3회](https://youtu.be/n_QGz6Bb0A0){:target="_blank" .btn .btn--outline--info--block .btn--large} 발표자: 김영빈
   - 주제 :morphism of presheaf
-- [대수기하 4회](https://youtu.be/DxuMoPJVuIw){: .btn .btn--outline--info--block .btn--large} 발표자: 김영빈
+- [대수기하 4회](https://youtu.be/DxuMoPJVuIw){:target="_blank" .btn .btn--outline--info--block .btn--large} 발표자: 김영빈
   - 주제 :Sheafication, Ringed Space, Affine Scheme
-- [대수기하 5회](https://youtu.be/-k2zLlEiCsA){: .btn .btn--outline--info--block .btn--large} 발표자: 김영빈
+- [대수기하 5회](https://youtu.be/-k2zLlEiCsA){:target="_blank" .btn .btn--outline--info--block .btn--large} 발표자: 김영빈
   - 주제 :Affine Scheme, Scheme, Projective Scheme
 
 ## 2021년 재생목록
 **주교재: Foundations of Algebraic Geometry - Ravi Vakill**
-- [대수기하 1회](https://youtu.be/YSn15IML4PU){: .btn .btn--outline--info--block .btn--large} 발표자: 서일권
+- [대수기하 1회](https://youtu.be/YSn15IML4PU){:target="_blank" .btn .btn--outline--info--block .btn--large} 발표자: 서일권
   - 주제 :Sheaves
 - [대수기하 2회](https://youtu.be/nzgFjOahad0){: .btn .btn--outline--info--block .btn--large} 발표자: 서일권
   - 주제 :Morphism of Sheaves
@@ -60,7 +60,7 @@ sidebar:
 
 ## 2022년 재생목록
 **주교재: Algebraic Geometry and Arithmetic Curves - Qing Liu**
-- [문제풀이 1](https://youtu.be/EjJ0w5yDhAw){: .btn .btn--outline--info--block .btn--large} 발표자: 서일권
+- [문제풀이 1](https://youtu.be/EjJ0w5yDhAw){:target="_blank" .btn .btn--outline--info--block .btn--large} 발표자: 서일권
   - 주제 :Qing Liu Ch1.1 ~ Ch1.2
 - [문제풀이 2](https://youtu.be/2_-QXwKYoYQ){: .btn .btn--outline--info--block .btn--large} 발표자: 김영빈
   - 주제 :Qing Liu Ch1.1 ~ Ch1.2

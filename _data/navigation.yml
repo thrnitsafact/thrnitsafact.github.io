@@ -18,6 +18,12 @@ docs:
     children:
       - title: "선형대수"
         url: /선형대수/playlist/tutoring/lin_alg/
+      - title: "위상수학"
+        url: /위상수학/playlist/tutoring/topology/
+      - title: "현대대수"
+        url: /현대대수/playlist/tutoring/abs_alg/
+      - title: "Module Theory"
+        url: /현대대수/playlist/tutoring/modules/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
