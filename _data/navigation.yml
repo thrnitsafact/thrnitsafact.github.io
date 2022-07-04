@@ -8,6 +8,16 @@ main:
     url: /categories/
   - title: "Tag"
     url: /tags/
+
+docs:
+  - title: 스터디
+    children:
+      - title: "대수기하"
+        url: /대수기하/playlist_study_alg_geo/
+  - title: 튜터링
+    children:
+      - title: "대수기하"
+        url: /대수기하/playlist_study_alg_geo/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
