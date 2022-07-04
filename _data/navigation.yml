@@ -1,13 +1,13 @@
 # main links
 main:
+  - title: "About"
+    url: /채널소개/notice
   - title: "Youtube"
     url: "https://www.youtube.com/c/ThrnitsaFact"
   - title: "Category"
     url: /categories/
   - title: "Tag"
     url: /tags/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
