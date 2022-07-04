@@ -13,17 +13,21 @@ docs:
   - title: 스터디
     children:
       - title: "대수기하"
-        url: /대수기하/playlist/study/alg_geo/
+        url: /대수기하/playlist-study-alg_geo/
   - title: 튜터링
     children:
       - title: "선형대수"
-        url: /선형대수/playlist/tutoring/lin_alg/
+        url: /선형대수/playlist-tutoring-lin_alg/
       - title: "위상수학"
-        url: /위상수학/playlist/tutoring/topology/
+        url: /위상수학/playlist-tutoring-topology/
       - title: "현대대수"
-        url: /현대대수/playlist/tutoring/abs_alg/
+        url: /현대대수/playlist-tutoring-abs_alg/
       - title: "Module Theory"
-        url: /현대대수/playlist/tutoring/modules/
+        url: /현대대수/playlist-tutoring-modules/
+      - title: "해석학"
+        url: /해석학/playlist-tutoring-analysis/
+      - title: "대수적위상수학"
+        url: /위상수학/playlist-tutoring-alg_top/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

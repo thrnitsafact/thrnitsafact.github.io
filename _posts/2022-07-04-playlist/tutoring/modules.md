@@ -15,7 +15,7 @@ Module Theory 튜터링 영상 재생목록입니다.
 
 발표자 : 김영빈
 
-## Module Theory
+## 재생목록
 [강의자료](https://github.com/URyn-K/LaTex/tree/main/Tutoring/ModuleTheory){:target="_blank" .btn .btn--outline--info--block .btn--large}
 
 - [Module Theory 1회](https://youtu.be/eoGOCKY0Olw){:target="_blank" .btn .btn--outline--info--block .btn--large}

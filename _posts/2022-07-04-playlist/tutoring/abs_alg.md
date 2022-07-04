@@ -20,8 +20,7 @@ sidebar:
 
 발표자 : 서일권
 
-## 현대대수
-
+## 재생목록
 - [현대대수 1회](https://youtu.be/82WcX_ocOxM){:target="_blank" .btn .btn--outline--info--block .btn--large}
   - 주제 :Partition, Equivalence Relation, Partial Order, Zorn's Lemma
 - [현대대수 2회](https://youtu.be/oB9jHqR1IaM){:target="_blank" .btn .btn--outline--info--block .btn--large}

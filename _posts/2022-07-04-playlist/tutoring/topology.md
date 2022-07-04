@@ -15,7 +15,7 @@ sidebar:
 
 발표자 : 김영빈
 
-## 위상수학
+## 재생목록
 [강의자료](https://github.com/URyn-K/LaTex/tree/main/Tutoring/Topology){:target="_blank" .btn .btn--outline--info--block .btn--large}
 
 - [위상수학 1회](https://youtu.be/4wn4pg9rCck){:target="_blank" .btn .btn--outline--info--block .btn--large}
