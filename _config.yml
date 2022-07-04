@@ -21,9 +21,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "KYB"
 description              : "컴팩트의 대중화를 위하여."
-url                      : "https://Uryn-K.github.io"
+url                      : "https://thrnitsafact.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "URyn-K/URyn-K.github.io"
+repository               : "thrnitsafact/thrnitsafact.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
