@@ -2,7 +2,7 @@
 layout: single
 title:  "[스터디] 대수기하"
 categories: [대수기하]
-tag: [대수기하, 스터디, 김영빈, 서일권, Algebraic Geometry - Robin Hartshorne, Foundations of Algebraic Geometry - Ravi Vakill, Algebraic Geometry and Arithmetic Curves - Qing Liu]
+tag: [대수기하, Algebric Geometry, 스터디, Study, 김영빈, 서일권, Algebraic Geometry - Robin Hartshorne, Foundations of Algebraic Geometry - Ravi Vakill, Algebraic Geometry and Arithmetic Curves - Qing Liu]
 toc: true
 sidebar:
     nav: "docs"
